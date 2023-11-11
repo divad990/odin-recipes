@@ -1,0 +1,18 @@
+h1, h2 {
+    font-family: monospace, 'Monaco';
+    text-align: center;
+}
+
+.center {
+    text-align: center;
+}
+
+.pinkmenu {
+    background-color: pink;
+
+}
+
+.bgcolor {
+    background-color: greenyellow;
+}
+
